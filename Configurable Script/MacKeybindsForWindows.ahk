@@ -10,9 +10,10 @@ SetWorkingDir, %A_ScriptDir%
 #v::Send, ^v ;Paste
 #a::Send, ^a ;Select all
 #f::Send, ^f ;Find
-#d::Send, {Del} ;Delete key
 #s::Send, ^s ;Save
+#+s::Send, ^+s ;Save as
 #o::Send, ^o ;Open File
+#BackSpace::Send, {Del} ;Delete key
 
 ;Screenshots (Greenshot)
 #+4::Send, {PrintScreen} ;Region Capture
@@ -29,7 +30,8 @@ SetWorkingDir, %A_ScriptDir%
 #n::Send, ^n ;New Folder
 #+n::Send, ^+n ;New Window
 #r::Send, ^r ;Reload
-
+#WheelUp::Send, ^{WheelUp}
+#WheelDown::Send, ^{WheelDown}
 #Left::Send !{Left} ;Previous Page
 #Right::Send !{Right} ;Next Page
 

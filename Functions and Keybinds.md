@@ -11,25 +11,28 @@
 | ⌘ V        | Paste       | CTRL +  V       |
 | ⌘ A        | Select All  | CTRL +  A       |
 | ⌘ F        | Find        | CTRL +  F       |
-| ⌘ D        | Delete      | Delete (Key)    |
 | ⌘ S        | Save        | CTRL + S        |
+| ⌘ ⇧ S      | Save        | CTRL + SHIFT + S|
 | ⌘ O        | Open File   | CTRL + O        |
+| ⌘ Backspace| Delete      | Delete (Key)    |
 
 ## Navigating
 | Command     | Function                  | Kebyind|
 | ----------- | ------------------------- | ----------- |
-| ⌘ ⇥       | Navigate forward through<br>currently open windows     | WIN + Tab              |
-| ⌘ ←        | Go To The Previous Page   | ALT + Left Arrow Key   |
-| ⌘ →        | Go To The Next Page       | ALT + Right Arrow Key  |
-| ⌘ R        | Reload Page               | CTRL + R               |
-| ⌘ Q        | Close Window              | CTRL + Q               |
-| ⌘ W        | Close Tab                 | CTRL + W               |
-| ⌘ T        | Open New Tab              | CTRL + T               |
-| ⌘ ⇧ T      | Reopen Closed Tab         | CTRL + SHIFT + T       |
-| ⌘ ⇧ P      | Open Private Window       | CTRL + SHIFT + P       |
-| ⌘ N        | Open New Window / File    | CTRL + N               |
-| ⌘ ⇧ N      | Create A New Folder / File| CTRL + SHIFT  + N      |
-| ⌘ LButton  | Control Click             | CTRL + LButton         |
+| ⌘ ⇥        | Navigate forward through<br>currently open windows     | WIN + Tab              |
+| ⌘ ←         | Go To The Previous Page   | ALT + Left Arrow Key   |
+| ⌘ →         | Go To The Next Page       | ALT + Right Arrow Key  |
+| ⌘ R         | Reload Page               | CTRL + R               |
+| ⌘ Q         | Close Window              | CTRL + Q               |
+| ⌘ W         | Close Tab                 | CTRL + W               |
+| ⌘ T         | Open New Tab              | CTRL + T               |
+| ⌘ ⇧ T       | Reopen Closed Tab         | CTRL + SHIFT + T       |
+| ⌘ ⇧ P       | Open Private Window       | CTRL + SHIFT + P       |
+| ⌘ N         | Open New Window / File    | CTRL + N               |
+| ⌘ ⇧ N       | Create A New Folder / File| CTRL + SHIFT  + N      |
+| ⌘ LButton   | Control Click             | CTRL + LButton         |
+| ⌘ ScrollUp  | Zoom in                   | CTRL + ScrollUp        |
+| ⌘ ScrollDown| Zoom out                  | CTRL + ScrollDown      |
 
 ## Function Keys
 | Command     | Function            | Keybind     |
