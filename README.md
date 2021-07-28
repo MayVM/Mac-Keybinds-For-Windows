@@ -3,16 +3,16 @@
 
 I initially created this script for personal use, as it helps me maintain my Mac workflow while using Windows. But decided to share it in the hopes for it to also be useful to other people.
 
-[Functional Keybinds](https://github.com/Nekoder96/Mac-Keybinds-For-Windows/Functions%20and%20Keybinds.md)
+[Functional Keybinds](https://github.com/Nekoder96/Mac-Keybinds-For-Windows/blob/main/Functions%20and%20Keybinds.md)
 
 -----------
 
 ## Install intructions
-- The easiest way to use this script downloading the [Standalone](link) release, and executing `Installer.bat` in order to allow the script to start with Windows
+- The easiest way to use this script downloading the [Standalone](https://github.com/Nekoder96/Mac-Keybinds-For-Windows/releases/download/v1.0/Standalone.zip) release, and executing `Installer.bat` in order to allow the script to start with Windows
 
 ## Alternative install intructions
 1. Install [AutoHotkey](https://www.autohotkey.com/) 
-2. Download `MacKeybindsForWindows.ahk`
+2. Download [MacKeybindsForWindows.ahk](https://github.com/Nekoder96/Mac-Keybinds-For-Windows/releases/download/v1.0/Configurable.Script.zip)
 3. In order to start the script with Windows, you need to copy the file to your startup directory
 -----------
 
