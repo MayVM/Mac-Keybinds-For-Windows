@@ -17,7 +17,7 @@ I initially created this script for personal use, as it helps me maintain my Mac
 -----------
 
 ## To do:
-- [ ] Add more keybinds (Feel free to open an issue and sent in requests)
+- [ ] Add more keybinds (Feel free to open an issue and send in requests)
 - [ ] Create a more advanced installer
 -----------
 ## Credits
