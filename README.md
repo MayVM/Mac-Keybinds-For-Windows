@@ -3,7 +3,7 @@
 
 I initially created this script for personal use, as it helps me maintain my Mac workflow while using Windows. But decided to share it in the hopes for it to also be useful to other people.
 
-[Functional Keybinds](https://github.com/Nekoder96/Mac-Keybinds-For-Windows/Functions%20and%20Keybinds.md)
+[Functional Keybinds](https://github.com/Nekoder96/Mac-Keybinds-For-Windows/blob/main/Functions%20and%20Keybinds.md)
 
 -----------
 
