@@ -1,3 +1,3 @@
 @echo off
-copy "MacKeybinds4Windows.exe" "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup"
+copy "MacKeybindsForWindows.exe" "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup"
 pause
