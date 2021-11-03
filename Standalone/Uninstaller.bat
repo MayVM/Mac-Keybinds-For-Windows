@@ -1,3 +1,3 @@
 @echo off
-del "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\MacKeybinds4Windows.exe"
+del "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\MacKeybindsForWindows.exe"
 pause
