@@ -1,3 +1,5 @@
+# This Project is no longer under development
+
 # AHK-Mac-keybinds-for-Windows
 ### Simple AHK script to use Mac Keybinds in Windows (Magic Keyboard Layout)
 
@@ -14,11 +16,6 @@ I initially created this script for personal use, as it helps me maintain my Mac
 1. Install [AutoHotkey](https://www.autohotkey.com/) 
 2. Download `MacKeybindsForWindows.ahk`
 3. In order to start the script with Windows, you need to copy the file to your startup directory
------------
-
-## To do:
-- [ ] Add more keybinds (Feel free to open an issue and send in requests)
-- [ ] Create a more advanced installer
 -----------
 ## Credits
 * [Github Markdown Documentation](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
